@@ -2,7 +2,6 @@
 
 An end-to-end supply chain analytics project analyzing 180K+ retail orders to identify which products deserve the most inventory attention, forecast demand for top revenue drivers, uncover the real root cause of delivery delays, and rank products by operational risk.
 
-[**[Live Interactive Dashboard (Tableau Public)](#)** ← add your Tableau Public link here once published
 ](https://public.tableau.com/app/profile/jiya.jiya2812/viz/SupplyChainAnalyticsDashboard_17867997297090/Dashboard1?publish=yes)
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
