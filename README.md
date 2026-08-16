@@ -2,7 +2,7 @@
 
 An end-to-end supply chain analytics project analyzing 180K+ retail orders to identify which products deserve the most inventory attention, forecast demand for top revenue drivers, uncover the real root cause of delivery delays, and rank products by operational risk.
 
-##Dashboard Link:
+## Dashboard Link:
 (https://public.tableau.com/app/profile/jiya.jiya2812/viz/SupplyChainAnalyticsDashboard_17867997297090/Dashboard1?publish=yes)
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
@@ -45,24 +45,3 @@ Brought everything together into a single dashboard: KPI summary cards, delivery
 ## Tools
 
 Python (Pandas, scikit-learn, statsmodels), Tableau Public.
-
-## Repository Structure
-
-```
-clean_data.py                    # Data cleaning
-abc_xyz_analysis.py              # ABC-XYZ product classification
-forecasting.py                   # Demand forecasting + model comparison
-root_cause_analysis.py           # Logistic regression on delivery delays
-risk_scorecard.py                # Composite risk scoring
-abc_xyz_classification.csv       # ABC-XYZ output
-forecast_results.csv             # Forecast accuracy by product
-shipping_mode_risk_factors.csv   # Regression coefficients
-late_rate_by_shipping_mode.csv   # Late % by shipping mode
-final_risk_scorecard.csv         # Final combined risk scores
-dashboard_screenshot.png         # Dashboard preview image
-README.md
-```
-
-## Author
-
-Jiya — [LinkedIn](#) · [GitHub](https://github.com/jiyagithub)
